@@ -15,6 +15,5 @@ int main() {
         << harga * (100 - diskon) / 100
         << endl;
 
-
   
 }
